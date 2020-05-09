@@ -1,3 +1,3 @@
 # tournament
-Tournament Simulator /n
+Tournament Simulator:
 A simple 4 team tournament simulator
